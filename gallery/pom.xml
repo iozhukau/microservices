@@ -8,7 +8,7 @@
 		<version>2.3.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.iozhukov.micro</groupId>
+	<groupId>net.iozhukov.edu.microservices</groupId>
 	<artifactId>gallery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gallery</name>

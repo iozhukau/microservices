@@ -1,10 +1,10 @@
-package net.iozhukov.edu.microservices.auth;
+package net.iozhukov.edu.microservices.image;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AuthApplicationTests {
+class ImagesApplicationTests {
 
 	@Test
 	void contextLoads() {

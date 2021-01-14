@@ -1,4 +1,4 @@
-package net.iozhukov.micro.gateway;
+package net.iozhukov.edu.microservices.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package net.iozhukov.micro.eureka;
+package net.iozhukov.edu.microservices.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
